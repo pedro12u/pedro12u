@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-![pic_pedro](https://github.com/user-attachments/assets/891b65a0-eb1d-4251-bb8d-77580976d9ce)
-
-
 ### 🔍 **About Me**
 
 I am a university student specializing in development, with extensive experience in the tech industry. Passionate about creating innovative solutions and continuously expanding my skill set to stay ahead in the ever-evolving field of technology.
