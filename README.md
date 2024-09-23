@@ -16,17 +16,6 @@ I am a university student specializing in development, with extensive experience
 
 ---
 
-### 💼 **Work Experience**
-
-**Stock Clerk**  
-*Multiled - Electrical Materials Store*  
-**2022**  
-- Managed inventory, ensuring accurate stock levels and timely restocking of products.
-- Assisted customers with product inquiries, enhancing their shopping experience.
-- Organized and maintained the storage area for efficiency and safety.
-
----
-
 ### 🛠️ **Skills**
 
 - **Programming:**  
@@ -56,14 +45,6 @@ I am a university student specializing in development, with extensive experience
 - **Project Management:**  
   - Knowledgeable in basic project management principles.
   - Experienced in organization, planning, and task coordination.
-
----
-
-### 🏆 **Awards and Certifications**
-
-- **Certificate of Completion:** Basic Ethereum  
-  *Instructor: Pietro*  
-  **2024**
 
 ---
 
