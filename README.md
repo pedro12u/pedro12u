@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Pedro Toscano](https://your-image-link.com/pedro-toscano.jpg)
+![pic_pedro](https://github.com/user-attachments/assets/891b65a0-eb1d-4251-bb8d-77580976d9ce)
+
 
 ### 🔍 **About Me**
 
