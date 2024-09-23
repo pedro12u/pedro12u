@@ -2,7 +2,7 @@
 
 ### 🔍 **About Me**
 
-I am a university student specializing in development, with extensive experience in the tech industry. Passionate about creating innovative solutions and continuously expanding my skill set to stay ahead in the ever-evolving field of technology.
+I am a university student specializing in development, with extensive experience in the tech industry. **Mastering skills in development** is my primary focus, as I am passionate about creating innovative solutions and continuously expanding my skill set to stay ahead in the ever-evolving field of technology.
 
 ---
 
@@ -24,30 +24,42 @@ I am a university student specializing in development, with extensive experience
   ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-  
+
 - **Web Development:**  
-  - Excellent skills in responsive design.
-  - Advanced knowledge of HTML and CSS for creating dynamic websites.
-  
+  - Responsive design
+  - Advanced knowledge of HTML and CSS
+
 - **Graphic Design:**  
-  - Skilled in Adobe Photoshop and Illustrator.
-  - Capable of creating visually appealing content for various platforms.
-  
+  ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop)
+  ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator)
+
 - **Data Analysis:**  
-  - Proficient in Microsoft Excel and Google Sheets.
-  - Experienced in spreadsheet manipulation and data interpretation.
-  
+  - Microsoft Excel
+  - Google Sheets
+
 - **Foreign Languages:**  
-  - Fluent in Portuguese, English and Spanish.
-  - Effective communication in multicultural environments.
-  
+  - Fluent in English and Spanish
+
 - **Communication and Teamwork:**  
-  - Strong ability to convey ideas clearly.
-  - Collaborative team player focused on achieving common goals.
-  
+  - Strong ability to convey ideas clearly
+  - Collaborative team player focused on achieving common goals
+
 - **Project Management:**  
-  - Knowledgeable in basic project management principles.
-  - Experienced in organization, planning, and task coordination.
+  - Knowledgeable in Agile and Scrum methodologies
+  - Experienced in organization, planning, and task coordination
+
+---
+
+### 🚀 **Projetos Destacados**
+
+- [Projeto 1](https://github.com/pedro12u/projeto1): Descrição breve do projeto.
+- [Projeto 2](https://github.com/pedro12u/projeto2): Descrição breve do projeto.
+
+---
+
+### 📈 **GitHub Stats**
+
+![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedro12u&show_icons=true&theme=radical)
 
 ---
 
