@@ -65,8 +65,8 @@ I am a university student specializing in development, with extensive experience
 
 ### 📫 **Contact Me**
 
-- **Email:** [pedro.toscano@example.com](mailto:pedro.toscano@example.com)
-- **LinkedIn:** [linkedin.com/in/pedrotoscano](https://linkedin.com/in/pedrotoscano)
+- **Email:** [toscanopedroall@gmail.com](mailto:toscanopedroall@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/pedro-toscano-674454218/]([https://linkedin.com/in/pedrotoscano](https://www.linkedin.com/in/pedro-toscano-674454218/))
 - **GitHub:** [github.com/pedro12u](https://github.com/pedro12u)
 
 ---
