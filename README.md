@@ -19,8 +19,11 @@ I am a university student specializing in development, with extensive experience
 ### 🛠️ **Skills**
 
 - **Programming:**  
-  - Proficient in HTML, CSS.
-  - Familiar with JavaScript, Java, and C.
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
   
 - **Web Development:**  
   - Excellent skills in responsive design.
