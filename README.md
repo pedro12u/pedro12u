@@ -48,7 +48,7 @@ I am a university student specializing in development, with extensive experience
   - Experienced in spreadsheet manipulation and data interpretation.
   
 - **Foreign Languages:**  
-  - Fluent in [Specify Languages].
+  - Fluent in Portuguese, English and Spanish.
   - Effective communication in multicultural environments.
   
 - **Communication and Teamwork:**  
