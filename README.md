@@ -66,7 +66,7 @@ I am a university student specializing in development, with extensive experience
 
 ### 📈 **GitHub Stats**
 
-![Pedro's GitHub Stats](https://github.com/pedro12u/pedro12u/blob/output/github-snake.svg)
+![Snake animation](https://github.com/pedro12u/pedro12u/blob/output/github-snake.svg)
 
 ---
 
