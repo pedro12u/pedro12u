@@ -16,7 +16,7 @@ I'm Pedro Toscano, a Systems Analysis and Development student with a passion for
 
 ### 🚀 Skills
 
-- **Programming:** JavaScript, TypeScript, Node.js, React, Java, C, HTML5, CSS3  
+- **Programming:** PHP, JavaScript, TypeScript, Node.js, React, Java, C, C#, HTML5, CSS3  
 - **Databases:** MySQL, MongoDB  
 - **Tools:** Adobe Photoshop, Illustrator, Excel, Google Sheets  
 - **Methodologies:** Agile, Scrum  
