@@ -44,4 +44,4 @@ I enjoy exploring emerging tech, creating graphic designs, analyzing data, and s
 
 ---
 
-© 2024 Pedro Toscano
+© 2025 Pedro Toscano
