@@ -20,13 +20,13 @@ I'm Pedro Toscano, a Systems Analysis and Development student with a passion for
 - **Databases:** MySQL, MongoDB  
 - **Tools:** Adobe Photoshop, Illustrator, Excel, Google Sheets  
 - **Methodologies:** Agile, Scrum  
-- **Languages:** Fluent in English and Spanish
+- **Languages:** Native in Portuguese, Fluent in English and Spanish
 
 ---
 
 ### 💼 Projects
 
-- [Coming Soon](#): Stay tuned for exciting showcases of my work!
+- [Coming Soon](#): Currently working on some futures projects to show here!
 
 ---
 
