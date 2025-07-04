@@ -11,9 +11,11 @@ I'm Pedro Toscano, a Systems Analysis and Development student with a passion for
 **Systems Analysis and Development**  
 *Maringá, Paraná, Brazil*  
 **2023 - 2025**
+
 **Software Engineer**  
 *Maringá, Paraná, Brazil*  
 **2025 - 2027**
+
 ---
 
 ### 🚀 Skills
