@@ -1,51 +1,51 @@
-## Hi there 👋
+## 👋 Hey! I'm Pedro Toscano
 
 ### 🔍 About Me
 
-I'm Pedro Toscano, a Systems Analysis and Development student with a passion for crafting innovative solutions in the tech world. My goal is to merge creativity with technical expertise to deliver impactful projects.
+Software Engineering student, freshly graduated in Systems Analysis & Development. I breathe technology and thrive at the intersection of creativity, logic, and code. I'm driven by the challenge of building impactful, real-world solutions — always hands-on, always learning.
 
 ---
 
 ### 🎓 Education
 
+**Software Engineering**  
+*Maringá, Paraná, Brazil*  
+📅 *2025 - 2027 (in progress)*
+
 **Systems Analysis and Development**  
 *Maringá, Paraná, Brazil*  
-**2023 - 2025**
-
-**Software Engineer**  
-*Maringá, Paraná, Brazil*  
-**2025 - 2027**
+🎓 *Graduated – 2023 - 2025*
 
 ---
 
-### 🚀 Skills
+### 🚀 Skills & Tools
 
-- **Programming:** PHP, JavaScript, TypeScript, Node.js, React, Java, C, C#, HTML5, CSS3  
+- **Languages:** JavaScript, TypeScript, PHP, Java, C, C#, HTML5, CSS3  
+- **Frameworks & Libs:** Node.js, React  
 - **Databases:** MySQL, MongoDB  
-- **Tools:** Adobe Photoshop, Illustrator, Excel, Google Sheets  
-- **Methodologies:** Agile, Scrum  
-- **Languages:** Native in Portuguese, Fluent in English and Spanish
+- **Tools & Practices:** Git, Agile, Scrum  
+- **Languages:** 🇧🇷 Portuguese (native), 🇬🇧 English (fluent), 🇪🇸 Spanish (fluent)
 
 ---
 
 ### 💼 Projects
 
-- [Coming Soon](#): Currently working on some futures projects to show here!
+🛠️ *Coming soon:* I'm currently developing a few tech-driven solutions — from full-stack apps to experimental Web3 builds. Stay tuned.
 
 ---
 
 ### 📬 Let's Connect
 
-- **Email:** [toscanopedroall@gmail.com](mailto:toscanopedroall@gmail.com)  
-- **LinkedIn:** [Pedro Toscano](https://www.linkedin.com/in/pedro-toscano-674454218/)  
-- **GitHub:** [@pedro12u](https://github.com/pedro12u)
+- 📧 [toscanopedroall@gmail.com](mailto:toscanopedroall@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-toscano-674454218/)  
+- 💻 [GitHub](https://github.com/pedro12u)
 
 ---
 
 ### 🎮 Beyond Code
 
-I enjoy exploring emerging tech, creating graphic designs, analyzing data, and staying active through sports and outdoor activities.
+Outside the dev world, I dive into graphic design, tech trends, data analysis, and recharge with sports and outdoor challenges.
 
 ---
 
-© 2025 Pedro Toscano
+© 2025 Pedro Toscano — Code. Build. Repeat.
