@@ -24,7 +24,7 @@ Software Engineering student, freshly graduated in Systems Analysis & Developmen
 - **Frameworks & Libs:** Node.js, React  
 - **Databases:** MySQL, MongoDB  
 - **Tools & Practices:** Git, Agile, Scrum  
-- **Languages:** 🇧🇷 Portuguese (native), 🇬🇧 English (fluent), 🇪🇸 Spanish (fluent)
+- **Languages:** 🇧🇷 Portuguese (native), 🇬🇧 English (fluent), 🇪🇸 Spanish (fluent), 🇮🇹 Italian (basic – learning)
 
 ---
 
