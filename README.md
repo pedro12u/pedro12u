@@ -1,51 +1,85 @@
-## 👋 Hey! I'm Pedro Toscano
+# Pedro Toscano
 
-### 🔍 About Me
+Software Engineering student with a solid technical foundation and a strong execution mindset. Graduate in Systems Analysis and Development, focused on building scalable, real world software with clean code, clear logic and practical impact.
 
-Software Engineering student, freshly graduated in Systems Analysis & Development. I breathe technology and thrive at the intersection of creativity, logic, and code. I'm driven by the challenge of building impactful, real-world solutions — always hands-on, always learning.
+I am driven by problem solving, continuous improvement and shipping solutions that actually get used.
 
 ---
 
-### 🎓 Education
+## Profile
+
+- Software Engineering student based in Brazil
+- Graduate in Systems Analysis and Development
+- Strong fundamentals in backend and full stack development
+- Hands on, product oriented and detail focused
+- Comfortable working in multicultural and international environments
+
+---
+
+## Education
 
 **Software Engineering**  
-*Maringá, Paraná, Brazil*  
-📅 *2025 - 2027 (in progress)*
+Maringa, Parana, Brazil  
+2025 to 2027 (in progress)
 
 **Systems Analysis and Development**  
-*Maringá, Paraná, Brazil*  
-🎓 *Graduated – 2023 - 2025*
+Maringa, Parana, Brazil  
+Graduated 2023 to 2025
 
 ---
 
-### 🚀 Skills & Tools
+## Technical Skills
 
-- **Languages:** JavaScript, TypeScript, PHP, Java, C, C#, HTML5, CSS3  
-- **Frameworks & Libs:** Node.js, React  
-- **Databases:** MySQL, MongoDB  
-- **Tools & Practices:** Git, Agile, Scrum  
-- **Languages:** 🇧🇷 Portuguese (native), 🇬🇧 English (fluent), 🇪🇸 Spanish (fluent), 🇮🇹 Italian (basic – learning)
+**Programming Languages**  
+JavaScript, TypeScript, PHP, Java, C, C#, HTML5, CSS3  
 
----
+**Frameworks and Libraries**  
+Node.js, React  
 
-### 💼 Projects
+**Databases**  
+MySQL, MongoDB  
 
-🛠️ *Coming soon:* I'm currently developing a few tech-driven solutions — from full-stack apps to experimental Web3 builds. Stay tuned.
+**Tools and Methodologies**  
+Git, Agile, Scrum  
 
----
-
-### 📬 Let's Connect
-
-- 📧 [toscanopedroall@gmail.com](mailto:toscanopedroall@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-toscano-674454218/)  
-- 💻 [GitHub](https://github.com/pedro12u)
+**Languages**  
+Portuguese (native)  
+English (fluent)  
+Spanish (fluent)  
+Italian (basic, learning)
 
 ---
 
-### 🎮 Beyond Code
+## Projects
 
-Outside the dev world, I dive into graphic design, tech trends, data analysis, and recharge with sports and outdoor challenges.
+I am currently developing and refining multiple projects, including:
+
+- Full stack web applications
+- Backend focused systems
+- Modern and experimental web solutions
+
+Repositories are updated continuously with practical projects focused on real problems, not just academic exercises.
 
 ---
 
-© 2025 Pedro Toscano — Code. Build. Repeat.
+## Contact
+
+Email  
+toscanopedroall@gmail.com  
+
+LinkedIn  
+https://www.linkedin.com/in/pedro-toscano-674454218/  
+
+GitHub  
+https://github.com/pedro12u  
+
+---
+
+## Interests
+
+Beyond software development, I explore graphic design, data analysis, emerging technologies and maintain an active lifestyle through sports and outdoor challenges. Discipline, curiosity and consistency are core principles in both work and life.
+
+---
+
+© 2026 Pedro Toscano  
+Building software with purpose and clarity.
