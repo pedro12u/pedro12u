@@ -3,7 +3,9 @@
 
 Full-stack developer focused on mission-critical automation: RPA that has to work in production against systems that actively try to block bots - WAFs, fingerprint detection, hCaptcha, reCAPTCHA.
 
-**Main case:** architected and delivered in production a system that automates certificate issuance across 15+ Brazilian government portals (DETRAN, Receita Federal, Tribunais, Secretarias da Fazenda), each with a different anti-bot stack. Client code is not public.
+**Main case:** architected and delivered in production a system that automates government certificate/record issuance across 15+ Brazilian portals (DETRAN, Receita Federal, Tribunais, Secretarias da Fazenda), each with a different anti-bot stack. Client code is not public.
+
+📄 [Read: What I learned automating anti-bot-protected forms](./notes/anti-bot-lessons.md)
 
 ---
 
@@ -16,21 +18,30 @@ Full-stack developer focused on mission-critical automation: RPA that has to wor
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
 
 ### Specialty
 
+- **Anti-bot bypass**: hCaptcha (incl. HSW proof-of-work), reCAPTCHA v2/v3, image OCR, session-token bypass
 - **Stealth browsers** (Camoufox and derivatives) for fingerprint detection evasion
+- **Certificate-based auth**: automated e-CNPJ/e-CPF digital certificate login (A1)
 - **Internal API reverse engineering** to remove fragile UI dependency
 - **AI vision as a captcha fallback** when pure automation isn't enough
-- **Robot orchestration at scale**: queues, retry, monitoring, alerts
-- **Web3 / Solana** since 2020
+- **Resilient orchestration at scale**: queues, retry/backoff, concurrency control, anti-OOM, deterministic failure handling, monitoring, alerts
+- Web3 / Solana since 2020
 
 ### Currently working on
 
 - 12-robot ecosystem + orchestrator (n8n) for a US pool company's operations
 - Mobile app with AI (iOS/Android) in production
 
+### Other work
+
+- **Roleta de Holders** - gamified Web3 raffle system for Solana token holders, real-time pump.fun monitoring, live WebSocket updates, auditable draws (Supabase)
+- **Workana proposal automation** - bot that drafts and tracks freelance proposal submissions
+- Ticketing platform, AI-powered rendering SaaS feature, and a custom SketchUp plugin (Ruby)
+
 ---
+
+**Open to freelance/contract anti-bot & automation projects.**
 
 📫 [toscanopedroall@gmail.com](mailto:toscanopedroall@gmail.com) · Maringá, PR, Brazil
