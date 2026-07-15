@@ -29,6 +29,11 @@ Full-stack developer focused on mission-critical automation: RPA that has to wor
 - **Resilient orchestration at scale**: queues, retry/backoff, concurrency control, anti-OOM, deterministic failure handling, monitoring, alerts
 - Web3 / Solana since 2020
 
+### Featured
+
+- 🎰 [**snowball**](https://github.com/pedro12u/snowball) - gamified Web3 raffle system for Solana token holders: real-time pump.fun monitoring, live WebSocket updates, auditable draws with a verifiable seed (Supabase)
+- 🎼 [**n8n-orchestrator-pattern**](https://github.com/pedro12u/n8n-orchestrator-pattern) - maestro + workers pattern for n8n: central scheduling, shared retry with exponential backoff, error classification, alert deduplication. Extracted from a 12-robot production ecosystem
+
 ### Currently working on
 
 - 12-robot ecosystem + orchestrator (n8n) for a US pool company's operations
@@ -36,7 +41,6 @@ Full-stack developer focused on mission-critical automation: RPA that has to wor
 
 ### Other work
 
-- **Roleta de Holders** - gamified Web3 raffle system for Solana token holders, real-time pump.fun monitoring, live WebSocket updates, auditable draws (Supabase)
 - **Workana proposal automation** - bot that drafts and tracks freelance proposal submissions
 - Ticketing platform, AI-powered rendering SaaS feature, and a custom SketchUp plugin (Ruby)
 
