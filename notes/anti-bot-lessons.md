@@ -33,4 +33,4 @@ Behind most modern portals is a clean JSON API and a session token issued right 
 
 There's no permanent bypass - anti-bot is an arms race. The real skill isn't a magic trick; it's a disciplined diagnostic loop: capture the actual request, find what the server truly validates, and attack that, not what the page shows you.
 
-— Pedro Toscano · Automation & Anti-Bot Engineer
+- Pedro Toscano · Automation & Anti-Bot Engineer
