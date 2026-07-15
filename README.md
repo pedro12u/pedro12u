@@ -3,7 +3,7 @@
 
 Full-stack developer focused on mission-critical automation: RPA that has to work in production against systems that actively try to block bots - WAFs, fingerprint detection, hCaptcha, reCAPTCHA.
 
-**Main case:** architected and delivered in production a system that automates certificate issuance across 15+ Brazilian government portals (DETRAN, Receita Federal, Tribunais, Secretarias da Fazenda), each with a different anti-bot stack. Client code is not public - architecture documented below and in the case study repo.
+**Main case:** architected and delivered in production a system that automates certificate issuance across 15+ Brazilian government portals (DETRAN, Receita Federal, Tribunais, Secretarias da Fazenda), each with a different anti-bot stack. Client code is not public.
 
 ---
 
@@ -30,12 +30,6 @@ Full-stack developer focused on mission-critical automation: RPA that has to wor
 
 - 12-robot ecosystem + orchestrator (n8n) for a US pool company's operations
 - Mobile app with AI (iOS/Android) in production
-
-### Selected Work
-
-I work mostly with proprietary client code, so I use this space to document architecture decisions without exposing implementation:
-
-- [`gov-portal-automation-architecture`](https://github.com/pedro12u/gov-portal-automation-architecture) - technical breakdown of automating 15+ government portals with heterogeneous anti-bot defenses
 
 ---
 
