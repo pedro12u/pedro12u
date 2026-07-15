@@ -3,7 +3,7 @@
 
 Full-stack developer focused on mission-critical automation: RPA that has to work in production against systems that actively try to block bots - WAFs, fingerprint detection, hCaptcha, reCAPTCHA.
 
-**Main case:** architected and delivered in production a system that automates government certificate/record issuance across 15+ Brazilian portals (DETRAN, Receita Federal, Tribunais, Secretarias da Fazenda), each with a different anti-bot stack. Client code is not public.
+**Main case:** architected and delivered in production a system that automates government certificate/record issuance across 15+ Brazilian portals (DETRAN, Receita Federal, Tribunais, Secretarias da Fazenda), each with a different anti-bot stack. Client code is not public - the architecture and engineering decisions are: [gov-portal-automation-architecture](https://github.com/pedro12u/gov-portal-automation-architecture).
 
 📄 [Read: What I learned automating anti-bot-protected forms](./notes/anti-bot-lessons.md)
 
@@ -31,6 +31,7 @@ Full-stack developer focused on mission-critical automation: RPA that has to wor
 
 ### Featured
 
+- 🛡️ [**gov-portal-automation-architecture**](https://github.com/pedro12u/gov-portal-automation-architecture) - case study: production RPA architecture against anti-bot systems (captcha chain with fallback, stealth browser config, certificate auth, IP-reputation lessons). No client data.
 - 🎰 [**snowball**](https://github.com/pedro12u/snowball) - gamified Web3 raffle system for Solana token holders: real-time pump.fun monitoring, live WebSocket updates, auditable draws with a verifiable seed (Supabase)
 - 🎼 [**n8n-orchestrator-pattern**](https://github.com/pedro12u/n8n-orchestrator-pattern) - maestro + workers pattern for n8n: central scheduling, shared retry with exponential backoff, error classification, alert deduplication. Extracted from a 12-robot production ecosystem
 
