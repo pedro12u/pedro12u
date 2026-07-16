@@ -31,9 +31,10 @@ Full-stack developer focused on mission-critical automation: RPA that has to wor
 
 ### Featured
 
+- 💰 [**xgate-challenge**](https://github.com/pedro12u/xgate-challenge) - multi-currency financial ledger API: snapshot + event-sourced balances, idempotent transfers/conversions/reversals, 110 tests with an enforced 80% branch-coverage gate. README documents the production trade-offs (Postgres row locking, Redis-backed idempotency, per-account partitioned queues).
 - 🛡️ [**gov-portal-automation-architecture**](https://github.com/pedro12u/gov-portal-automation-architecture) - case study: production RPA architecture against anti-bot systems (captcha chain with fallback, stealth browser config, certificate auth, IP-reputation lessons). No client data.
-- 🎰 [**snowball**](https://github.com/pedro12u/snowball) - gamified Web3 raffle system for Solana token holders: real-time pump.fun monitoring, live WebSocket updates, auditable draws with a verifiable seed (Supabase)
 - 🎼 [**n8n-orchestrator-pattern**](https://github.com/pedro12u/n8n-orchestrator-pattern) - maestro + workers pattern for n8n: central scheduling, shared retry with exponential backoff, error classification, alert deduplication. Extracted from a 12-robot production ecosystem
+- 🎰 [**snowball**](https://github.com/pedro12u/snowball) - gamified Web3 raffle system for Solana token holders: real-time pump.fun monitoring, live WebSocket updates, auditable draws with a verifiable seed (Supabase)
 
 ### Currently working on
 
@@ -42,6 +43,7 @@ Full-stack developer focused on mission-critical automation: RPA that has to wor
 
 ### Other work
 
+- **aep-residuos** - mobile app (Expo/React Native) that classifies solid waste from the camera using on-device computer vision (TensorFlow.js + MobileNet)
 - **Workana proposal automation** - bot that drafts and tracks freelance proposal submissions
 - Ticketing platform, AI-powered rendering SaaS feature, and a custom SketchUp plugin (Ruby)
 
